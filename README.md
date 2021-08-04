@@ -1,2 +1,2 @@
-# card-sample
-Sample card code
+Shopping card
+
