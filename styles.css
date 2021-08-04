@@ -1,0 +1,43 @@
+.card{
+    border: 1px solid #E2E2E2;
+    font-family: 'Roboto', sans-serif;
+    max-width: 300px;
+    margin: auto;
+}
+.boot-image{
+    height: 205px;
+    width: 300px;
+}
+.heading{
+    margin: 30px 25px;
+    width: 175px;
+    font-size: 20px;
+    color: #333333;
+}
+.description{
+    margin: 0px 25px;
+    width: 175px;
+    font-size: 15px;
+    color: #666666;
+}
+.price{
+    display: inline-block;
+    width: 175px ;
+    margin: 30px 25px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #333333;
+}
+.add-cart{
+    display: inline-block;
+    margin: 30px 0px;
+    width: 50px;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    background-color: #4ED17B;
+    color: #FFFFFF;
+}
+.shop-icon{
+    font-size: 30px;
+}
